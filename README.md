@@ -5,7 +5,7 @@ This project demonstrates the use of model-viewer to showcase 3D models in augme
 ---
 
 ### Webpage
-![Mobile experience](media/screen-capture.gif)
+![Webpage](media/screen-capture.gif)
 
 ---
 
