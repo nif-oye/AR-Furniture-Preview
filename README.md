@@ -4,10 +4,4 @@ This project demonstrates the use of model-viewer to showcase 3D models in augme
 
 ---
 
-### Mobile experience
-![Mobile experience](media/MobileView.jpeg)  ![In the room](media/Stool-AR.gif)
-
----
-
-### In the room!
-![In the room](media/Stool-AR.gif)
+![Mobile experience](media/Mobile.jpeg)  ![In the room](media/Stool-AR.gif)
