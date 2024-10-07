@@ -10,4 +10,4 @@ This project demonstrates the use of model-viewer to showcase 3D models in augme
 ---
 
 ### In the room!
-![In the room](media/Stool - AR.gif)
+![In the room](media/Stool-AR.gif)
